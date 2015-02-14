@@ -1,5 +1,5 @@
 
-## polutant mean
+## polutant mean  make a commit
 pollutantmean<-function(directory, pollutant, id = 1:332){
        
         filesList<-list.files(directory,full.names=TRUE)
